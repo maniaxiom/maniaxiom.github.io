@@ -28,7 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 # theme: minima
 # theme: spectral_jekyll_theme
-remote_theme: andrewbanchich/spectral-jekyll-theme
+remote_theme: andrewbanchich/spectral_jekyll_theme
 plugins:
   - jekyll-feed
 
