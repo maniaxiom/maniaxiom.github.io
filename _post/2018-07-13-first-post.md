@@ -1,8 +1,7 @@
 ---
-title: "First Post"
+title: "No Posts Yet."
 date: 2018-07-13 17:26:00
 
 ---
 
-
-Hey this is a sample blog post
+Today is not the day. The robot revolution remains silenced today.
