@@ -9,11 +9,11 @@ baseurl: ''
 author:
   name: 'Manik Arora'
   email: manik15053@iiitd.ac.in
-  twitter_username: manikarora
-  facebook_username: manik.arora9047
-  github_username:  manikarora
-  linkedin_username:  manikarora
-  resume: resume
+  # twitter_username: manikarora
+  # facebook_username: manik.arora9047
+  # github_username:  manikarora
+  # linkedin_username:  manikarora
+  # resume: resume
 
 defaults:
   -
